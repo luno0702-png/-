@@ -1,0 +1,68 @@
+body{
+  font-family: sans-serif;
+  margin: 0;
+    background-color: #000000;
+}
+.h1 {
+    color:#ffffff;
+}
+
+h1 {
+    text-align: center;
+   
+}
+.cats {
+    color:#d1a964;
+    font-size:20px;
+
+}
+.rudi-cat {
+    color:#5e4a35;
+    text-decoration: none;
+    font-size: 20px;
+    background-color: #4a3a29;
+    padding:5px;
+    border:4px solid #241c14;
+    border-radius: 50px;
+}
+.homiku {
+    color: #ffffff;
+}
+.homuku {
+  color:#ffffff;
+    text-decoration: none;
+    font-size: 19px;
+    background-color:#363636;
+    padding:1px;
+    border:4px dashed #000000;
+    border-radius: 10px;
+}
+.aks {
+    color:#d49db2;
+    text-decoration: none;
+    font-size: 20px;
+    background-color:#9c6e80;
+    padding:4px;
+    border:3px solid #ba91a1;
+    border-radius:100px;
+    
+}
+.aksolotl {
+    
+    color:#d9a5bf;
+}
+.dur {
+    height:200px;
+}
+.rud {
+    text-align: center;
+}
+.hom {
+    text-align: center;
+}
+.wer {
+   height: 200px;
+}
+.akso{
+    text-align: center;
+}
